@@ -15,7 +15,7 @@
 
 ## (1) Запустите Kafka (можно в docker)  ## 
 
-Использую пример из [otus-nosql](https://github.com/evgnep/otus-nosql) 
+Использую пример из docker hub.
 
 Поднял docker контейнер
 ```
